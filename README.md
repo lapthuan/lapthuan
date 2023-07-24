@@ -1,10 +1,27 @@
-#Xin chao
+### Hi there 👋. Gordon's here, welcome to my profile!!
 
-- 🔭 Hiện tại tôi đang làm việc trên việc phát triển ứng dụng web sử dụng ReactJS, NextJS và NodeJS.
-- 🌱 Hiện tại tôi đang học hỏi các kỹ thuật và công cụ mới trong phát triển web để nâng cao kỹ năng của mình.
-- 👯 Tôi đang tìm kiếm cơ hội hợp tác trong các dự án web thú vị, nơi tôi có thể đóng góp kiến thức chuyên môn của mình về ReactJS, NextJS và NodeJS.
-- 🤔 Tôi đang tìm kiếm sự trợ giúp trong việc tối ưu hóa hiệu suất và khả năng mở rộng trong ứng dụng web.
-- 💬 Hỏi tôi về bất cứ điều gì liên quan đến phát triển web, ReactJS, NextJS hoặc NodeJS, và tôi sẽ cố gắng hỗ trợ bạn.
-- 📫 Cách liên hệ với tôi: Bạn có thể liên hệ với tôi qua email [lapthuan0805@gmail.com] hoặc kết nối với tôi qua [facebook.com](https://www.facebook.com/thuann.lap)
-- ⚡ Sự thú vị: Tôi yêu việc khám phá các công nghệ mới và thích giải quyết các vấn đề phức tạp trong phát triển web.
+- 🔭 I’m currently working on FullStack Development
+- 🌱 I’m currently learning kubernetes
+- 👯 I’m looking to collaborate on FullStack Web Development
+- 💬 Ask me about anything
+- 📫 How to reach me: <a href="mailto:lapthuan0805@gmail.com">Gmail</a> 
+- ⚡ Fun fact: I do have an accounting certificated.
 
+## Tech Stack
+
+### Frontend Development
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend Development
+
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Stats
+
+![Languages using overview](https://github-readme-stats.vercel.app/api/top-langs/?username=lapthuan&layout=compact)
